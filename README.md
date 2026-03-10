@@ -23,18 +23,8 @@
 
 <br/>
 
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,linux,ubuntu,vscode&perline=7" />
 #
-
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"></code>
 
 <p align="center">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
@@ -53,11 +43,11 @@ Connect With Me
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 
-<a href="https://facebook.com">
+<a href="https://www.facebook.com/share/1UjjeBJRne">
 <img height="60" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
 </a>
 
-<a href="https://instagram.com">
+<a href="https://www.instagram.com/whoisjoseluis777">
 <img height="60" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
 </a>
 
