@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I am Jose Luis<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-<h3 align="center">💻 Computer science student| Passionate about programming</h3>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<h3 align="center"><img src = "github-header-banner(1).png" width = 30px></h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Jose-langL&label=Profile%20views&color=0e75b6&style=flat" alt="Jose-langL" />
