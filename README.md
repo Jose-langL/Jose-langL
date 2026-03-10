@@ -3,18 +3,10 @@
 <!--
 **Jose-langL/Jose-langL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<h1> 
+Sobre mi 🤓
+</h1>
+<p>🎓 Estudiante en informatica </p>
 
 
 
@@ -66,6 +58,5 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-#
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
