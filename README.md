@@ -3,12 +3,8 @@
 <!--
 **Jose-langL/Jose-langL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1> 
-Sobre mi 🤓
-</h1>
-<p>🎓 Estudiante en informatica </p>
-
-
+#💫 Sobre Mi:
+🚀 Estudiante en informatica 
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
@@ -30,12 +26,19 @@ Sobre mi 🤓
 
 <br/>
 
+
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 <h1>
 </div>
   Connect With Me
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
 </h1>
-
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
