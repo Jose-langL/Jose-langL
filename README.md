@@ -21,6 +21,8 @@
 
 <br/>
 
+<br/>
+
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
@@ -32,7 +34,7 @@
 #
 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"></code>
 
 <p align="center">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
@@ -42,29 +44,24 @@
 
 <h1 align="center">
 Connect With Me
-<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
+<img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-<code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+<a href="https://linkedin.com">
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 
-<a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-<code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
+<a href="https://facebook.com">
+<img height="60" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
 </a>
 
-<a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-<code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+<a href="https://instagram.com">
+<img height="60" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
 </a>
 
-<a href="https://twitter.com/JayantGoel001" target="_blank">
-<code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
+<a href="https://twitter.com">
+<img height="60" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>
 </a>
-
-<a href="https://dev.to/jayantgoel001">
-<code><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/dev.svg" height="62" width="62"></code>
-</a>
-
 </p>
