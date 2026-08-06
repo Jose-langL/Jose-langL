@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/Jose-langL">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=FRONTEND EN HTML, CSS y JavaScript;Backend Python y Base de Datos;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=FRONTEND+EN+HTML+CSS+y+JavaScript;Backend+Python+y+Base+de+Datos;" alt="Typing SVG" />
   </a>
 </div>
 
