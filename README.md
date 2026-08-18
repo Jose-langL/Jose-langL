@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/Jose-langL">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=FRONTEND+EN+HTML+CSS+y+JavaScript;Backend+Python+y+Base+de+Datos;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=8FB3FA&center=true&vCenter=true&width=980&lines=FRONTEND+EN+HTML+CSS+y+JAVASCRIPT;Backend+Python+y+Base+de+Datos;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -136,13 +136,31 @@
 ## Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jose-langL&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Jose-langL&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jose-langL&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
 </div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=Jose-langL&show_icons=true&theme=dark&hide_border=true&rank_icon=github&bg_color=0F172A&title_color=38BDF8&icon_color=7DD3FC&text_color=E2E8F0"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jose-langL&layout=compact&langs_count=6&card_width=470&theme=dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0"
+        alt="Most Used Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -186,5 +204,3 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
 </div>
 
 ---
-
-**Perfil actualizado:** 06/08/2026
