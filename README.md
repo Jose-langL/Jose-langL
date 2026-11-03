@@ -178,10 +178,32 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
 
 <!-- Export the GIF below in the look you picked, commit it, then: -->
 <p align="center">
-  <img src="orbit-window-earth.gif" alt="Orbit Window Earth, animated ASCII art" width="720">
+  <img src="assets/orbit-window-earth.gif" alt="Orbit Window Earth, animated ASCII art" width="720">
 </p>
 
-<!-- Export the GIF below in the look you picked, commit it, then: -->
+
+---
+
+<h2 align="center">PAC-MAN CONTRIBUTION GAME</h2>
+
 <p align="center">
-  <img src="network-traffic.gif" alt="Network Traffic, animated ASCII art" width="720">
+  <i>Mis contribuciones convertidas en un pequeño arcade 👾</i>
 </p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jose-langL/Jose-langL/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jose-langL/Jose-langL/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/Jose-langL/Jose-langL/output/pacman-contribution-graph.svg"
+    width="100%"
+  />
+</picture>
+
+---
