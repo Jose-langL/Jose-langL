@@ -17,11 +17,9 @@
 <h1 align="center">Hola, soy Jose Luis Tot Herrera</h1>
 
 <p align="center">
-  <strong>Programador Junior</strong>
+  <strong>Técnico en Desarrollo en Software</strong>
   <br />
-  Programador junior en formación, con conocimientos en HTML, CSS, JavaScript, 
-  Python y MySQL. Me interesa el desarrollo web y, a futuro, ampliar mis 
-  habilidades hacia la creación de programas y herramientas propias.
+ Me gusta aprender, experimentar y transformar ideas en proyectos mediante la programación. Actualmente me enfoco en fortalecer mis conocimientos en desarrollo de software, explorar nuevas herramientas y asumir retos que me permitan seguir creciendo.
 </p>
 
 <div align="center">
@@ -38,29 +36,22 @@
   <tr>
     <td width="50%">
       <h3>Desarrollo de Software</h3>
-      <p>Me interesa crear soluciones digitales en general: desde páginas y 
-        aplicaciones web hasta programas de escritorio, seguir ampliando mis
-        conocimientos hacia otras áreas de la programación./p>
+      <p>Me interesa la creación de soluciones digitales, principalmente en el desarrollo web, buscando transformar ideas en aplicaciones funcionales y explorar nuevas áreas de la programación.</p>
     </td>
     <td width="50%">
       <h3>Proyectos y soluciones</h3>
-      <p>He desarrollado aplicaciones web como sistemas de gestión y proyectos 
-         que consumen APIs externas, aplicando buenas prácticas de programación 
-         como código organizado, control de versiones y documentación clara.</p>
+      <p>Desarrollo proyectos académicos y personales, convirtiendo conocimientos teóricos en soluciones prácticas y funcionales.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Trabajo tecnico</h3>
-      <p>Trabajo con HTML, CSS y JavaScript para el desarrollo de interfaces web, 
-         y con MySQL para el almacenamiento y gestión de datos. Utilizo Git y 
-         GitHub para el control de versiones y organización de mis proyectos.</p>
+      <p>Me enfoco en escribir código organizado, aplicar buenas prácticas de programación y mantener una estructura clara en mis proyectos.</p>
+      <p> Git · GitHub · Documentación.</p>
     </td>
     <td width="50%">
       <h3>Aprendizaje continuo</h3>
-      <p>Me gusta experimentar creando proyectos variados no solo web para 
-         aprender nuevas tecnologías, entender cómo funcionan las cosas por dentro 
-         y ampliar mi rango como desarrollador.</p>
+      <p>Me gusta experimentar, explorar nuevas herramientas y enfrentar diferentes retos que me permitan adquirir conocimientos y fortalecer mis habilidades como desarrollador.</p>
     </td>
   </tr>
 </table>
@@ -70,7 +61,7 @@
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,github,vscode,obsidian&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,github,vscode,obsidian,postman,nodejs,postgres,linux,docker,mint&perline=10" alt="Tech stack" />
 </div>
 
 <br />
@@ -81,29 +72,6 @@
   <img src="https://img.shields.io/badge/Data-Databases-1f2937?style=flat-square" alt="Data" />
   <img src="https://img.shields.io/badge/Tools-Workflow-1f2937?style=flat-square" alt="Tools" />
 </div>
-
----
-
-## Areas de enfoque
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Frontend</h3>
-      <p>HTML, CSS, JAVASCRIPT</p>
-    </td>
-    <td width="33%">
-      <h3>Backend y datos</h3>
-      <p>Python<br />MYSQL</p>
-    </td>
-    <td width="33%">
-      <h3>Herramientas</h3>
-      <p>Git, GitHub, VS Code, Docker, Obsidian</p>
-    </td>
-  </tr>
-</table>
-
----
 
 ## Proyectos destacados
 
@@ -204,3 +172,16 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
 </div>
 
 ---
+<a href="https://github.com/jose-langl">
+<img src="https://www.gitskins.com/api/section/heatmap?username=jose-langl&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224330338%3Fu%3D31dc5dc832a2719501e5128aa40920ea98f5ea0b%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="jose-langl animated contribution jet" />
+</a>
+
+<!-- Export the GIF below in the look you picked, commit it, then: -->
+<p align="center">
+  <img src="orbit-window-earth.gif" alt="Orbit Window Earth, animated ASCII art" width="720">
+</p>
+
+<!-- Export the GIF below in the look you picked, commit it, then: -->
+<p align="center">
+  <img src="network-traffic.gif" alt="Network Traffic, animated ASCII art" width="720">
+</p>
