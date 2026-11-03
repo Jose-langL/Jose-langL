@@ -104,11 +104,7 @@
 ## Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Jose-langL&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jose-langL&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-langL&theme=github_dark&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=7DD3FC" alt="Detalles del perfil de GitHub" width="98%" />
 </div>
 
 <table>
@@ -129,6 +125,10 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jose-langL&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+</div>
 
 ---
 
@@ -182,28 +182,3 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
 </p>
 
 
----
-
-<h2 align="center">PAC-MAN CONTRIBUTION GAME</h2>
-
-<p align="center">
-  <i>Mis contribuciones convertidas en un pequeño arcade 👾</i>
-</p>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Jose-langL/Jose-langL/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Jose-langL/Jose-langL/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman Contribution Graph"
-    src="https://raw.githubusercontent.com/Jose-langL/Jose-langL/output/pacman-contribution-graph.svg"
-    width="100%"
-  />
-</picture>
-
----
