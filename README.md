@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Professional+Profile&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="Jose Luis Tot Herrera - Programador Junior" width="100%" />
+  <img src="./assets/banner.svg" alt="Jose Luis Tot Herrera - Tecnico en Desarrollo de Software" width="100%" />
 </div>
 
 <br />
