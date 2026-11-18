@@ -171,14 +171,4 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
   <strong> Disponible | Ciudad Guatemala, Guatemala</strong>
 </div>
 
----
-<a href="https://github.com/jose-langl">
-<img src="https://www.gitskins.com/api/section/heatmap?username=jose-langl&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224330338%3Fu%3D31dc5dc832a2719501e5128aa40920ea98f5ea0b%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="jose-langl animated contribution jet" />
-</a>
-
-<!-- Export the GIF below in the look you picked, commit it, then: -->
-<p align="center">
-  <img src="assets/orbit-window-earth.gif" alt="Orbit Window Earth, animated ASCII art" width="720">
-</p>
-
 
