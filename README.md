@@ -130,26 +130,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jose-langL&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
 </div>
 
----
-
-## Como trabajo
-
-```txt
-Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
-```
-
-<table>
-  <tr>
-    <td>Orden tecnico</td>
-    <td>Me adapto rápidamente a nuevos retos y herramientas.</td>
-  </tr>
-  <tr>
-    <td>Objetivo profesional</td>
-    <td>Conseguir mi primera oportunidad como desarrollador junior para seguir creciendo profesionalmente y aportar soluciones mediante el desarrollo digital.</td>
-  </tr>
-</table>
-
----
 
 ## Contacto
 
